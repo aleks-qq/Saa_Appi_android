@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sää Tiedot</string>
+    <string name="action_settings">Settings</string>
+    <string name="vaihaNappi">Näytä sää</string>
+    <string name="textTV">Large Text1</string>
+    <string name="dateTV">Large Text2</string>
+    <string name="tempTV">Large Text3</string>
+</resources>
